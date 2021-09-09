@@ -1,0 +1,56 @@
+title: "raiocrux"
+email: f/xeqvvwdw
+timezone: UTC
+url: https://raiocrux.com
+baseurl: ""
+permalink: /blog/:year/:month/:day/:title
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+author: raiocrux
+paginate: 30
+disqus: 'raiocrux'
+locale: en_us
+lang: en_us
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+ganalytics: G-11J2BV3YK1
+
+# Authors
+authors:
+  raiocrux:
+    name: raiocrux
+    display_name: raiocrux
+    avatar: 'assets/images/raiocrux.png'
+    web: https://raiocrux.com/about
+    twitter: https://twitter.com/raiocrux
+    description: "Acrylic on Canvas Painter and Digital Artist; #creator and #NFT #collector, based in Brazil"
+
+# Social
+social:
+  instagram: https://www.instagram.com/raiocrux/
+  facebook: https://www.facebook.com/raiocrux
+  twitter: https://twitter.com/raiocrux
+  reddit: https://www.reddit.com/user/raiocrux
+  youtube: https://www.youtube.com/channel/UCM8HofCOFv715nSPZpnbXkA?sub_confirmation=1
+  flickr: https://www.flickr.com/people/raiocrux/
+  pinterest: https://pinterest.com/raiocrux/
+  telegram: https://t.me/raiocrux
+  tiktok: https://www.tiktok.com/@raiocrux
+  twitch: https://twitch.tv/raiocrux
+  
+
+# Plugins
+plugins: 
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives
