@@ -16,9 +16,14 @@ comments: true
         {% assign author = site.authors[page.author] %}
         
 		<div class="col-sm-8">
-            <!-- Post Featured Image -->
-			{% if page.image %}<img class="featured-image img-fluid rounded" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">{% endif %}
-			<!-- End Featured Image -->
+            {% if page.image %}
+            <div class="embed-responsive embed-responsive-16by9">
+                <!-- Post Featured Image -->
+			    <img class="featured-image rounded card-img-top embed-responsive-item" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">
+			    <!-- End Featured Image -->
+            </div>
+            {% endif %}
+            
 			<div class="mainheading">             
                 
                 <!-- Post Categories -->

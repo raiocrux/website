@@ -356,6 +356,10 @@ blockquote {
 	border-top-right-radius:4px;
 	border-top-left-radius:4px;
 }
+.embed-responsive .card-img-top {
+    object-fit: contain;
+    background-color: #e0e0e0;
+}
 ul.tags {
 	list-style:none;
 	padding-left:0;
