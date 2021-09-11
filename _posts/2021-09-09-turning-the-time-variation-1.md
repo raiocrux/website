@@ -8,7 +8,7 @@ image: assets/images/blog/2021-09-09-Turning_the_Time_-_Variation_1.png
 
 This is the first variation of _"Turning the Time"_
 
-First published on Opensea, make an offer # [here](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/1424050934219482094641052345481048971115530496503602941533414512485155733505)
+First published on Opensea, make an offer **[HERE](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/1424050934219482094641052345481048971115530496503602941533414512485155733505)**
 
 Aspect ratio: 1:1
 
