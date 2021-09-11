@@ -1,4 +1,4 @@
-[raiocrux.com](hhtps://raiocfux.com/)
+[raiocrux.com](htps://raiocfux.com/)
 
 This website uses the _[Affiliates Jekyll theme](https://github.com/wowthemesnet/affiliates-jekyll-theme)_ by wowthemesnet with some modifications
 
