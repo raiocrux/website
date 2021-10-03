@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nebula sense"
+title:  "Flying lines"
 author: raiocrux
 categories: [ hen, abstract ]
 image: assets/images/blog/2021-10-03-flying-lines.jpg
